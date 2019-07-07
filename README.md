@@ -1,6 +1,7 @@
 # Refactoring documentation of the [Foliant][productrep] application
 
 [TOC]
+
 ---
 
 ### Glossary

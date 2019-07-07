@@ -33,7 +33,7 @@
 3. Fix all founded inconsistencies with any convenient tools
 4. Push final result in [repository][reportrep] on GitHub
     + <pre style="font-size: 80%; background-color: #ffc7c7"><strong>Attention:</strong> need to define names and structure of the directories before ```push``` all changes</pre>
-5. Go to the next section of the Table Of Content <p style="color: red">(on the left upper part of the page, not the right upper!)</p>
+5. Go to the next section of the Table Of Content <p style="color: #ff0000">(on the left upper part of the page, not the right upper!)</p>
 6. Return to Step 2
 
 

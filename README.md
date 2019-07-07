@@ -1,16 +1,60 @@
-# Refactoring documentation of the [Foliant](https://github.com/foliant-docs/foliant) application
+# Refactoring documentation of the [Foliant][productrep] application
 
 ---
+
+### Glossary
+
+- **Application** - here and further: product called Foliant, located in this [repository][productrep] only
+- **Documentation** - here and further: all information about the **application**, contains in [README.md][productrep] file and on [Foliant Main Documentation][foliantdocs] page
+- **TOC** - Table of Contents 
 
 <pre style="font-size: 80%; background-color: #c7e3ff"><strong>Tip:</strong> following next steps will increase your workflow efficiency. Maybe</pre>
 
 ### Investigate the [application](https://github.com/foliant-docs/foliant)
 
-1. Go to [https://github.com/foliant-docs/foliant](https://github.com/foliant-docs/foliant "foliant docs")
+##### Steps:
+
+1. Go to [https://github.com/foliant-docs/foliant][productrep]
 2. Read and follow instructions in **README.md** file
     + if you don't know how to download and install Python 3.xx - <s>what are you doing here?</s> go to [BeginnersGuide/Download](https://wiki.python.org/moin/BeginnersGuide/Download) section on [Python](https://www.python.org) official site 
-3. Note any inconsistencies: mistakes, syntax, differences between actual and expected results in the installation process, etc.
+3. Note any inconsistencies: mistakes, syntax, differences between actual and expected results in the installation process, etc. Need to find as much as possilbe!
     + <pre style="font-size: 80%; background-color: #c7e3ff"><strong>Tip:</strong> lecture #2 from Xsolla Summer School'19 can be a great help in this</pre>
 4. Fix all founded inconsistencies with any convenient tools
-5. Push final result in [repository](https://github.com/Pinderschlosse/XSS-19-Test-Task-1.git) on GitHub
-    + <pre style="font-size: 80%; background-color: #ffc7c7"><strong>Attention:</strong> need to define names and structure of the directories before <code>push</code> all changes</pre>
+5. Push final result in [repository][reportrep] on GitHub
+    + <pre style="font-size: 80%; background-color: #ffc7c7"><strong>Attention:</strong> need to define names and structure of the directories before ```push``` all changes</pre>
+
+### Start refactoring the [documentation][foliantdocs]
+
+##### Steps:
+
+1. Go to [Foliant Main Documentation][foliantdocs] page
+2. Note any inconsistencies on the current page: mistakes, syntax, differences between actual and expected results in discribed processes, etc. Need to find as much as possilbe!
+    + <pre style="font-size: 80%; background-color: #c7e3ff"><strong>Tip:</strong> lecture #2 from Xsolla Summer School'19 can be a great help in this</pre>
+3. Fix all founded inconsistencies with any convenient tools
+4. Push final result in [repository][reportrep] on GitHub
+    + <pre style="font-size: 80%; background-color: #ffc7c7"><strong>Attention:</strong> need to define names and structure of the directories before ```push``` all changes</pre>
+5. Go to the next section of the Table Of Content <p style="color: red">(on the left upper part of the page, not the right upper!)</p>
+6. Return to Step 2
+
+
+### The 'Done' table
+
+ >Use the table below to visually determine how much you've done.
+
+ **Section of TOC**|**In Progress**|**Tested**|**Pushed**|**Accepted**
+:------------------|:-------------:|:--------:|:--------:|:-----------:
+Welcome to Foliant!|     NO        |NO        |NO        |NO
+Installation       |     NO        |NO        |NO        |NO
+Quickstart         |     NO        |NO        |NO        |NO
+Backends           |     NO        |NO        |NO        |NO
+Preprocessors      |     NO        |NO        |NO        |NO
+CLI Extentions     |     NO        |NO        |NO        |NO
+Config Extentions  |     NO        |NO        |NO        |NO
+  
+ 
+
+
+
+[productrep]: https://github.com/foliant-docs/foliant "Foliant repository"
+[reportrep]: https://github.com/Pinderschlosse/XSS-19-Test-Task-1.git "Pinderschlosse's reporting repository"
+[foliantdocs]: https://foliant-docs.github.io/docs/ "Foliant Main Documentation"

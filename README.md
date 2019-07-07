@@ -5,7 +5,8 @@
 
 ### Glossary
 
-- **Application** - here and further: product called Foliant, located in this [repository][productrep] only
+Application
+:   here and further: product called Foliant, located in this [repository][productrep] only
 - **Documentation** - here and further: all information about the **application**, contains in [README.md][productrep] file and on [Foliant Main Documentation][foliantdocs] page
 - **TOC** - Table of Contents 
 

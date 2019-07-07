@@ -45,7 +45,7 @@
 
  **Section of TOC**|**In Progress**|**Tested**|**Pushed**|**Accepted**
 :------------------|:-------------:|:--------:|:--------:|:-----------:
-Welcome to Foliant!|[ ]|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Welcome to Foliant!|- [ ]|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Installation       |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Quickstart         |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Backends           |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>

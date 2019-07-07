@@ -43,7 +43,7 @@
 
  **Section of TOC**|**In Progress**|**Tested**|**Pushed**|**Accepted**
 :------------------|:-------------:|:--------:|:--------:|:-----------:
-Welcome to Foliant!|     NO        |NO        |NO        |NO
+Welcome to Foliant!|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Installation       |     NO        |NO        |NO        |NO
 Quickstart         |     NO        |NO        |NO        |NO
 Backends           |     NO        |NO        |NO        |NO

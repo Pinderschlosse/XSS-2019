@@ -6,8 +6,7 @@
 
 ### Glossary
 
-Application
-:    here and further: product called Foliant, located in this [repository][productrep] only
+- **Application** - here and further: product called Foliant, located in this [repository][productrep] only
 - **Documentation** - here and further: all information about the **application**, contains in [README.md][productrep] file and on [Foliant Main Documentation][foliantdocs] page
 - **TOC** - Table of Contents 
 
@@ -46,7 +45,7 @@ Application
 
  **Section of TOC**|**In Progress**|**Tested**|**Pushed**|**Accepted**
 :------------------|:-------------:|:--------:|:--------:|:-----------:
-Welcome to Foliant!|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Welcome to Foliant!|[ ]|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Installation       |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Quickstart         |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
 Backends           |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>

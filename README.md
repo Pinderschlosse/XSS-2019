@@ -43,13 +43,13 @@
 
  **Section of TOC**|**In Progress**|**Tested**|**Pushed**|**Accepted**
 :------------------|:-------------:|:--------:|:--------:|:-----------:
-Welcome to Foliant!|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-Installation       |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-Quickstart         |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-Backends           |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-Preprocessors      |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-CLI Extentions     |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
-Config Extentions  |<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>|<l style="background-color: #ff0000">NO</l>
+Welcome to Foliant!|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Installation       |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Quickstart         |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Backends           |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Preprocessors      |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+CLI Extentions     |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
+Config Extentions  |<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>|<l style="color: #ff0000">NO</l>
   
  
 

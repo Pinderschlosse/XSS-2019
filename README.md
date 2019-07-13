@@ -1,5 +1,4 @@
 # XSOLLA Login Widget SDK
----
 
 This SDK allows you to quickly integrate Xsolla Login Widget with your website.
 
@@ -31,7 +30,9 @@ Connect Xsolla Login Javascript SDK:
 
 - If you don’t have the package installed, add the following code to the `<head>` tag of the web page where you want to place the widget:
 
-```<script src="https://cdn.xsolla.net/xsolla-login-widget/sdk/2.1.1/xl.min.js"></script>```
+```html
+<script src="https://cdn.xsolla.net/xsolla-login-widget/sdk/2.1.1/xl.min.js"></script>
+```
 
 
 ## Usage
@@ -42,14 +43,14 @@ Connect Xsolla Login Javascript SDK:
 
 Add the widget initialization code to the `<body>` tag.
 
-
-	<script type="text/javascript">
-	XL.init({
-	  projectId: '{Login ID}',
-	  callbackUrl: '{callbackUrl}'
-	});
-	</script>
-
+```javascript
+<script type="text/javascript">
+XL.init({
+  projectId: '{Login ID}',
+  callbackUrl: '{callbackUrl}'
+});
+</script>
+```
 
 **Parameter**|**Description**
 :------:|:------
@@ -67,7 +68,9 @@ Select the way of placing the widget on the website:
 
 Add the button with an on-click event to your website and call the `XL.show()` function.
 
-`<button onclick="XL.show()">Fullscreen widget</button>`
+```html
+<button onclick="XL.show()">Fullscreen widget</button>
+```
 
 The fullscreen mode will be closed upon clicking outside the widget.
 
@@ -76,17 +79,21 @@ The fullscreen mode will be closed upon clicking outside the widget.
 
 Add the block, in which the widget will be placed, to the `<body>` tag of this page and specify the block ID.
 
-`<div id="xl_auth"></div>`
+```html
+<div id="xl_auth"></div>
+```
 
 Add the following script and specify the parameters as described below.
 
-	<script type="text/javascript">
-	var options = {
-	  width: 400,
-	  height: 550
-	};
-	XL.AuthWidget(element_id, options);
-	</script>
+```javascript
+<script type="text/javascript">
+var options = {
+  width: 400,
+  height: 550
+};
+XL.AuthWidget(element_id, options);
+</script>
+```
 
 **Parameter**|**Description**
 :------:|:------
@@ -96,9 +103,9 @@ Add the following script and specify the parameters as described below.
 
 ## Troubleshooting
 
-1. I can’t find Login ID. Where is it?
+1. **I can’t find Login ID. Where is it?**
 
     *Answer*: Please go to your Publisher Account > Login settings > General settings > Login ID.
-2. Where can I find the guide described full integration of Xsolla Login?
+2. **Where can I find the guide described full integration of Xsolla Login?**
 
     *Answer*: Please follow the [link](http://developers.xsolla.com/doc/login).
